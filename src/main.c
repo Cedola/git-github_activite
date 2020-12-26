@@ -2,4 +2,4 @@
 *
 *
 *   This game has been created using raylib (www.raylib.com)
-*   raylib is licensed under an unmodified zlib/libpn
+*   raylib is licensed under an unmodified zlib/libpng license (View raylib.h
