@@ -12,4 +12,6 @@
 #include "structs.h"
 #include "DrawFunctions.h"
 #include "InputChecks.h"
-#include "Enem
+#include "Enemies.h"
+#include "general.h"
+#inclu
