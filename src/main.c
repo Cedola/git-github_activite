@@ -14,4 +14,5 @@
 #include "InputChecks.h"
 #include "Enemies.h"
 #include "general.h"
-#inclu
+#include <string.h>
+#includ
