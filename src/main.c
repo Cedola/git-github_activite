@@ -20,4 +20,6 @@
 
 
 
-const int WIDTH = 250, HEIGHT = 22
+const int WIDTH = 250, HEIGHT = 220;
+
+Texture2D StoneT
