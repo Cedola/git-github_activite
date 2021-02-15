@@ -20,4 +20,4 @@
 
 
 
-const in
+const int WIDTH = 250, HEIGHT = 22
