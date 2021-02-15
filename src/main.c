@@ -23,4 +23,5 @@
 const int WIDTH = 250, HEIGHT = 220;
 
 Texture2D StoneTile;
-Texture2D StoneWall
+Texture2D StoneWall;
+Texture2D CharacterSp
