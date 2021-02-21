@@ -28,4 +28,7 @@ Texture2D CharacterSpriteSheet;
 Texture2D SwordSpriteSheet;
 
 
-struct Map
+struct MapTextures DungeonTextures;
+
+
+stru
