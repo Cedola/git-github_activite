@@ -31,4 +31,4 @@ Texture2D SwordSpriteSheet;
 struct MapTextures DungeonTextures;
 
 
-stru
+struct Enemy Enemies[16];
