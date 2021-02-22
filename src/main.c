@@ -34,4 +34,6 @@ struct MapTextures DungeonTextures;
 struct Enemy Enemies[16];
 
 
-static Font LoadFont_PixelF
+static Font LoadFont_PixelFont(void)
+{
+	Font font =
