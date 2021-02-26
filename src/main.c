@@ -36,4 +36,6 @@ struct Enemy Enemies[16];
 
 static Font LoadFont_PixelFont(void)
 {
-	Font font =
+	Font font = { 0 };
+
+	font.baseS
