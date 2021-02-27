@@ -38,4 +38,5 @@ static Font LoadFont_PixelFont(void)
 {
 	Font font = { 0 };
 
-	font.baseS
+	font.baseSize = 32;
+	font.glyp
