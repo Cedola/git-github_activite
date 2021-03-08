@@ -39,4 +39,5 @@ static Font LoadFont_PixelFont(void)
 	Font font = { 0 };
 
 	font.baseSize = 32;
-	font.glyp
+	font.glyphCount = 95;
+	font.glyphPa
