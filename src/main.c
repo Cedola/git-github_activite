@@ -42,4 +42,5 @@ static Font LoadFont_PixelFont(void)
 	font.glyphCount = 95;
 	font.glyphPadding = 4;
 
-	// Custom fo
+	// Custom font loading
+	// NOTE: C
