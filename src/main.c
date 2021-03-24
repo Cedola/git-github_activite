@@ -43,4 +43,5 @@ static Font LoadFont_PixelFont(void)
 	font.glyphPadding = 4;
 
 	// Custom font loading
-	// NOTE: Compressed font image data (DEFLATE), it requires D
+	// NOTE: Compressed font image data (DEFLATE), it requires DecompressData() function
+	
