@@ -44,4 +44,5 @@ static Font LoadFont_PixelFont(void)
 
 	// Custom font loading
 	// NOTE: Compressed font image data (DEFLATE), it requires DecompressData() function
-	int fontDataSize_PixelFont = 
+	int fontDataSize_PixelFont = 0;
+	unsigned char* data =
