@@ -49,4 +49,4 @@ static Font LoadFont_PixelFont(void)
 	Image imFont = { data, 512, 512, 1, 2 };
 
 	// Load texture from image
-	font.texture = LoadTex
+	font.texture = LoadTextureFromImage(imFon
