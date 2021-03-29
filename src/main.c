@@ -47,3 +47,6 @@ static Font LoadFont_PixelFont(void)
 	int fontDataSize_PixelFont = 0;
 	unsigned char* data = DecompressData(fontData_PixelFont, COMPRESSED_DATA_SIZE_FONT_PIXELFONT, &fontDataSize_PixelFont);
 	Image imFont = { data, 512, 512, 1, 2 };
+
+	// Load texture from image
+	f
