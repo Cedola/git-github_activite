@@ -50,4 +50,6 @@ static Font LoadFont_PixelFont(void)
 
 	// Load texture from image
 	font.texture = LoadTextureFromImage(imFont);
-	UnloadImage(imFont);  // Uncompressed data can be unload
+	UnloadImage(imFont);  // Uncompressed data can be unloaded from memory
+
+	// As
