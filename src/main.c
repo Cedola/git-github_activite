@@ -52,4 +52,5 @@ static Font LoadFont_PixelFont(void)
 	font.texture = LoadTextureFromImage(imFont);
 	UnloadImage(imFont);  // Uncompressed data can be unloaded from memory
 
-	// Assign glyph recs and inf
+	// Assign glyph recs and info data directly
+	// WARNING:
