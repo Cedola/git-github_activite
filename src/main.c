@@ -53,4 +53,4 @@ static Font LoadFont_PixelFont(void)
 	UnloadImage(imFont);  // Uncompressed data can be unloaded from memory
 
 	// Assign glyph recs and info data directly
-	// WARNING: This font da
+	// WARNING: This font data must not be unloade
