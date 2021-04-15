@@ -71,3 +71,5 @@ int Game()
 	int Tick = 0;
 	int PlayerHealth = 25;
 	int MaxHealth = 25;
+	int PlayerAttack = 0;
+	in
