@@ -69,4 +69,5 @@ static Font LoadFont_PixelFont(void)
 int Game()
 {
 	int Tick = 0;
-	
+	int PlayerHealth = 25;
+	i
