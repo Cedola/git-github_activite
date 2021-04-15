@@ -70,4 +70,4 @@ int Game()
 {
 	int Tick = 0;
 	int PlayerHealth = 25;
-	i
+	int MaxHealth = 25;
