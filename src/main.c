@@ -55,4 +55,15 @@ static Font LoadFont_PixelFont(void)
 	// Assign glyph recs and info data directly
 	// WARNING: This font data must not be unloaded
 	font.recs = fontRecs_PixelFont;
-	font.glyphs = fontGlyphs_PixelFon
+	font.glyphs = fontGlyphs_PixelFont;
+
+	return font;
+}
+
+
+
+
+
+
+
+int Game()
