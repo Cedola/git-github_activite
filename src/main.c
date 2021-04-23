@@ -73,4 +73,6 @@ int Game()
 	int MaxHealth = 25;
 	int PlayerAttack = 0;
 	int CurrentPlayerAnimationFrame = 0;
-	int AttackStart
+	int AttackStartTick = 0;
+
+	int Play
