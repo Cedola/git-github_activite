@@ -76,4 +76,4 @@ int Game()
 	int AttackStartTick = 0;
 
 	int PlayerAnimation[4] = {0, 2, 1, 2};
-	int A
+	int AttackAnimationWalking[2] 
