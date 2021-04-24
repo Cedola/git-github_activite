@@ -75,4 +75,5 @@ int Game()
 	int CurrentPlayerAnimationFrame = 0;
 	int AttackStartTick = 0;
 
-	int Play
+	int PlayerAnimation[4] = {0, 2, 1, 2};
+	int A
