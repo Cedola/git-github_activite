@@ -77,4 +77,4 @@ int Game()
 
 	int PlayerAnimation[4] = {0, 2, 1, 2};
 	int AttackAnimationWalking[2] = { 4, 3 };
-	int Att
+	int AttackAnimationStanding[
