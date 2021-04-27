@@ -79,4 +79,5 @@ int Game()
 	int AttackAnimationWalking[2] = { 4, 3 };
 	int AttackAnimationStanding[2] = { 5, 2 };
 
-	bool m
+	bool moving = false;
+	bool Pl
