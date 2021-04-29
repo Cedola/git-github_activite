@@ -80,4 +80,5 @@ int Game()
 	int AttackAnimationStanding[2] = { 5, 2 };
 
 	bool moving = false;
-	bool Pl
+	bool PlayerAttacking = false;
+	boo
