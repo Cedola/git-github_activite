@@ -81,4 +81,7 @@ int Game()
 
 	bool moving = false;
 	bool PlayerAttacking = false;
-	bool AttackAnimation = false
+	bool AttackAnimation = false;
+
+
+	StoneTile = LoadTe
