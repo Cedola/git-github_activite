@@ -84,4 +84,5 @@ int Game()
 	bool AttackAnimation = false;
 
 
-	StoneTile = LoadTexture("resources/StoneTil
+	StoneTile = LoadTexture("resources/StoneTile.png");
+	StoneWall = Loa
