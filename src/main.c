@@ -81,4 +81,4 @@ int Game()
 
 	bool moving = false;
 	bool PlayerAttacking = false;
-	boo
+	bool AttackAnimation = false
