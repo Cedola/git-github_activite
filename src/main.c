@@ -85,4 +85,4 @@ int Game()
 
 
 	StoneTile = LoadTexture("resources/StoneTile.png");
-	StoneWall = Loa
+	StoneWall = LoadTexture("resources/StoneWall.png
