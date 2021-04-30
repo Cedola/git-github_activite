@@ -86,4 +86,4 @@ int Game()
 
 	StoneTile = LoadTexture("resources/StoneTile.png");
 	StoneWall = LoadTexture("resources/StoneWall.png");
-	CharacterSpriteSheet = L
+	CharacterSpriteSheet = LoadTexture("resourc
