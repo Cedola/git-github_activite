@@ -93,4 +93,4 @@ int Game()
 	Vector2 PlayerPosition = { 200, 200 };
 	Vector2 PlayerMovement = { 0, 0 };
 
-	Font Pi
+	Font PixelFont = LoadFont_Pixel
