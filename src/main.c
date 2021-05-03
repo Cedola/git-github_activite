@@ -89,4 +89,5 @@ int Game()
 	CharacterSpriteSheet = LoadTexture("resources/CharacterSpriteSheet.png");
 	SwordSpriteSheet = LoadTexture("resources/SwordSpriteSheet.png");
 
-	Vector2 PreviousPlayerPosition = { 200, 200 }
+	Vector2 PreviousPlayerPosition = { 200, 200 };
+	Vector2 PlayerPos
