@@ -91,4 +91,6 @@ int Game()
 
 	Vector2 PreviousPlayerPosition = { 200, 200 };
 	Vector2 PlayerPosition = { 200, 200 };
-	Vector2 PlayerMove
+	Vector2 PlayerMovement = { 0, 0 };
+
+	Font Pi
