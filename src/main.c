@@ -87,4 +87,6 @@ int Game()
 	StoneTile = LoadTexture("resources/StoneTile.png");
 	StoneWall = LoadTexture("resources/StoneWall.png");
 	CharacterSpriteSheet = LoadTexture("resources/CharacterSpriteSheet.png");
-	SwordSpriteSheet = LoadTexture("resources/SwordSpriteS
+	SwordSpriteSheet = LoadTexture("resources/SwordSpriteSheet.png");
+
+	Vector2 Previou
