@@ -101,4 +101,5 @@ int Game()
 
 
 
-	struct Sprite Characte
+	struct Sprite CharacterSprite;
+	struct Sprite EnemySprit
