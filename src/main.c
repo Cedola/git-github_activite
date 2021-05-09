@@ -105,4 +105,6 @@ int Game()
 	struct Sprite EnemySprite;
 	
 
-	struct Enemy 
+	struct Enemy Dummy;
+
+	struct Item 
