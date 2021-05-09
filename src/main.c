@@ -107,4 +107,6 @@ int Game()
 
 	struct Enemy Dummy;
 
-	struct Item 
+	struct Item ItemHeld;
+
+	DungeonTextures.Fl
