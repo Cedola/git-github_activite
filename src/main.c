@@ -109,4 +109,5 @@ int Game()
 
 	struct Item ItemHeld;
 
-	DungeonTextures.Fl
+	DungeonTextures.Floors[0] = &StoneTile;
+	Dunge
