@@ -110,4 +110,8 @@ int Game()
 	struct Item ItemHeld;
 
 	DungeonTextures.Floors[0] = &StoneTile;
-	DungeonTextures.Wal
+	DungeonTextures.Walls[0] = &StoneWall;
+
+
+
+	Chara
