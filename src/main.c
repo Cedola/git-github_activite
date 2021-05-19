@@ -114,4 +114,4 @@ int Game()
 
 
 
-	Chara
+	CharacterSprite.SpriteSheet = &Cha
