@@ -116,4 +116,5 @@ int Game()
 
 	CharacterSprite.SpriteSheet = &CharacterSpriteSheet;
 	CharacterSprite.SpriteLength = 10;
-	CharacterSprite.SpriteHeig
+	CharacterSprite.SpriteHeight = 15;
+	CharacterSprite.Current
