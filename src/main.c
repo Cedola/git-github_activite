@@ -119,3 +119,6 @@ int Game()
 	CharacterSprite.SpriteHeight = 15;
 	CharacterSprite.CurrentSprite.x = 0;
 	CharacterSprite.CurrentSprite.y = 0;
+
+
+	EnemySprite.SpriteH
