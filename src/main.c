@@ -118,4 +118,4 @@ int Game()
 	CharacterSprite.SpriteLength = 10;
 	CharacterSprite.SpriteHeight = 15;
 	CharacterSprite.CurrentSprite.x = 0;
-	CharacterSprite.Cu
+	CharacterSprite.CurrentSprite.y = 0;
