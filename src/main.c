@@ -125,4 +125,4 @@ int Game()
 	EnemySprite.SpriteLength = 10;
 	EnemySprite.CurrentSprite.y = 0;
 	EnemySprite.CurrentSprite.x = 0;
-	EnemySpr
+	EnemySprite.SpriteSheet = &CharacterSpri
