@@ -124,4 +124,5 @@ int Game()
 	EnemySprite.SpriteHeight = 15;
 	EnemySprite.SpriteLength = 10;
 	EnemySprite.CurrentSprite.y = 0;
-	EnemySprite
+	EnemySprite.CurrentSprite.x = 0;
+	EnemySpr
