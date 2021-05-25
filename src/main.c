@@ -134,4 +134,4 @@ int Game()
 	ItemHeld.IsOnTop[2] = true;
 	ItemHeld.OffSet[0].x = 0;
 	ItemHeld.OffSet[1].x = 0;
-	ItemHe
+	ItemHeld.OffSet[2].x = 
