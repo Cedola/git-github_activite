@@ -128,4 +128,5 @@ int Game()
 	EnemySprite.SpriteSheet = &CharacterSpriteSheet;
 
 
-	ItemHeld.IsOnT
+	ItemHeld.IsOnTop[0] = true;
+	ItemHeld.
