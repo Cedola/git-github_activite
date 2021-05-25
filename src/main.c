@@ -129,4 +129,5 @@ int Game()
 
 
 	ItemHeld.IsOnTop[0] = true;
-	ItemHeld.
+	ItemHeld.IsOnTop[3] = false;
+	ItemH
