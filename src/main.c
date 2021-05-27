@@ -137,3 +137,4 @@ int Game()
 	ItemHeld.OffSet[2].x = 0;
 	ItemHeld.OffSet[3].x = 0;
 	ItemHeld.OffSet[0].y = 0;
+	ItemHeld.OffSet
