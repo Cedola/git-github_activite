@@ -140,4 +140,5 @@ int Game()
 	ItemHeld.OffSet[1].y = 0;
 	ItemHeld.OffSet[2].y = 0;
 	ItemHeld.OffSet[3].y = 0;
-	ItemHeld.ItemSprite.SpriteHeight = 
+	ItemHeld.ItemSprite.SpriteHeight = 15;
+	ItemHeld.ItemSprite.
