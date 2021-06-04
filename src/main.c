@@ -143,4 +143,5 @@ int Game()
 	ItemHeld.ItemSprite.SpriteHeight = 15;
 	ItemHeld.ItemSprite.SpriteLength = 10;
 	ItemHeld.ItemSprite.SpriteSheet = &SwordSpriteSheet;
-	ItemHeld.ItemSprite.CurrentS
+	ItemHeld.ItemSprite.CurrentSprite.x = 0;
+	ItemHeld.
