@@ -146,4 +146,6 @@ int Game()
 	ItemHeld.ItemSprite.CurrentSprite.x = 0;
 	ItemHeld.ItemSprite.CurrentSprite.y = 0;
 	ItemHeld.ItemType = Weapon;
-	ItemHeld.WeaponTyp
+	ItemHeld.WeaponType = MeleeOneHand;
+
+	
