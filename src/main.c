@@ -145,4 +145,5 @@ int Game()
 	ItemHeld.ItemSprite.SpriteSheet = &SwordSpriteSheet;
 	ItemHeld.ItemSprite.CurrentSprite.x = 0;
 	ItemHeld.ItemSprite.CurrentSprite.y = 0;
-	ItemHeld.ItemType = W
+	ItemHeld.ItemType = Weapon;
+	ItemHeld.WeaponTyp
