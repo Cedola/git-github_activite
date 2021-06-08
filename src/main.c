@@ -150,4 +150,5 @@ int Game()
 
 	Dummy.EnemySprite = EnemySprite;
 	Dummy.AttackingPlayer = false;
-	Dummy.IsDead =
+	Dummy.IsDead = false;
+	Dummy.Attack
