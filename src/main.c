@@ -148,4 +148,5 @@ int Game()
 	ItemHeld.ItemType = Weapon;
 	ItemHeld.WeaponType = MeleeOneHand;
 
-	Dummy.EnemySprite = EnemySp
+	Dummy.EnemySprite = EnemySprite;
+	Dummy.AttackingPlayer =
