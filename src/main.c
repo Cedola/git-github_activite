@@ -149,4 +149,5 @@ int Game()
 	ItemHeld.WeaponType = MeleeOneHand;
 
 	Dummy.EnemySprite = EnemySprite;
-	Dummy.AttackingPlayer =
+	Dummy.AttackingPlayer = false;
+	Dummy.IsDead =
