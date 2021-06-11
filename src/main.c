@@ -152,4 +152,5 @@ int Game()
 	Dummy.AttackingPlayer = false;
 	Dummy.IsDead = false;
 	Dummy.AttackRange = 20;
-	Dummy.Curren
+	Dummy.CurrentInstruction = 0;
+	Dummy.En
