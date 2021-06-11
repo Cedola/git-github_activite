@@ -151,4 +151,5 @@ int Game()
 	Dummy.EnemySprite = EnemySprite;
 	Dummy.AttackingPlayer = false;
 	Dummy.IsDead = false;
-	Dummy.Attack
+	Dummy.AttackRange = 20;
+	Dummy.Curren
