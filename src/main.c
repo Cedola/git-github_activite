@@ -153,4 +153,5 @@ int Game()
 	Dummy.IsDead = false;
 	Dummy.AttackRange = 20;
 	Dummy.CurrentInstruction = 0;
-	Dummy.En
+	Dummy.EnemyPosition.x = 200;
+	
