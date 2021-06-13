@@ -154,4 +154,4 @@ int Game()
 	Dummy.AttackRange = 20;
 	Dummy.CurrentInstruction = 0;
 	Dummy.EnemyPosition.x = 200;
-	
+	Dummy.EnemyPosition.y = 200;
