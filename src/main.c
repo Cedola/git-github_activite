@@ -158,4 +158,5 @@ int Game()
 	Dummy.LastPosition = Dummy.EnemyPosition;
 	Dummy.EnemyHealth = 10;
 	Dummy.EnemyItem = ItemHeld;
-	Dummy.EnemyItem.ItemSprite.SpriteHeight
+	Dummy.EnemyItem.ItemSprite.SpriteHeight = 15;
+	Dummy.EnemyItem.Item
