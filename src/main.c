@@ -155,4 +155,5 @@ int Game()
 	Dummy.CurrentInstruction = 0;
 	Dummy.EnemyPosition.x = 200;
 	Dummy.EnemyPosition.y = 200;
-	Dummy.LastPosition = Du
+	Dummy.LastPosition = Dummy.EnemyPosition;
+	Dummy.EnemyHeal
