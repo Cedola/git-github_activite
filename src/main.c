@@ -159,4 +159,4 @@ int Game()
 	Dummy.EnemyHealth = 10;
 	Dummy.EnemyItem = ItemHeld;
 	Dummy.EnemyItem.ItemSprite.SpriteHeight = 15;
-	Dummy.EnemyItem.Item
+	Dummy.EnemyItem.ItemSprite.SpriteLength
