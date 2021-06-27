@@ -162,4 +162,4 @@ int Game()
 	Dummy.EnemyItem.ItemSprite.SpriteLength = 10;
 	Dummy.EnemyItem.ItemSprite.SpriteSheet = &SwordSpriteSheet;
 	Dummy.EnemyItem.ItemSprite.CurrentSprite.x = 0;
-	Dummy.Ene
+	Dummy.EnemyItem.ItemSprite.Curren
