@@ -166,4 +166,7 @@ int Game()
 
 	for (int i = 0; i < 256; ++i)
 	{
-		Dummy
+		Dummy.Routine[i] = 2;
+	}
+
+	Dummy.
