@@ -164,4 +164,6 @@ int Game()
 	Dummy.EnemyItem.ItemSprite.CurrentSprite.x = 0;
 	Dummy.EnemyItem.ItemSprite.CurrentSprite.y = 0;
 
-	for (int i
+	for (int i = 0; i < 256; ++i)
+	{
+		Dummy
