@@ -169,4 +169,6 @@ int Game()
 		Dummy.Routine[i] = 2;
 	}
 
-	Dummy.
+	Dummy.Routine[100] = LookAround;
+
+
