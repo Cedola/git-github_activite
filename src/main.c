@@ -172,3 +172,11 @@ int Game()
 	Dummy.Routine[100] = LookAround;
 
 
+
+	Enemies[0] = Dummy;
+
+
+
+	
+
+	str
