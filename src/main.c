@@ -179,4 +179,7 @@ int Game()
 
 	
 
-	str
+	struct Map Area =
+	{
+		{
+		{1, 1, 
