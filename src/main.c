@@ -227,4 +227,6 @@ int Game()
 		}
 	};
 
-	while (!W
+	while (!WindowShouldClose())
+	{
+		m
