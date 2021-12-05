@@ -230,4 +230,6 @@ int Game()
 	while (!WindowShouldClose())
 	{
 		moving = false;
-		Play
+		PlayerAttacking = false;
+
+		B
