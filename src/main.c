@@ -229,4 +229,5 @@ int Game()
 
 	while (!WindowShouldClose())
 	{
-		m
+		moving = false;
+		Play
