@@ -240,4 +240,6 @@ int Game()
 
 		
 		PlayerMovement = Movement_Checks();
-		PlayerAtta
+		PlayerAttack = Attack_Checks();
+
+		
