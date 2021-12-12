@@ -235,4 +235,8 @@ int Game()
 		BeginDrawing();
 
 
-		ClearBackground(BLACK
+		ClearBackground(BLACK);
+
+
+		
+		PlayerMovement = Movement
