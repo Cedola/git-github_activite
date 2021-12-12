@@ -232,4 +232,7 @@ int Game()
 		moving = false;
 		PlayerAttacking = false;
 
-		B
+		BeginDrawing();
+
+
+		ClearBackground(BLACK
