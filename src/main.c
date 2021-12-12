@@ -239,4 +239,5 @@ int Game()
 
 
 		
-		PlayerMovement = Movement
+		PlayerMovement = Movement_Checks();
+		PlayerAtta
