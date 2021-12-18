@@ -244,4 +244,4 @@ int Game()
 
 		PreviousPlayerPosition = PlayerPosition;
 
-		Pla
+		PlayerPosition.x += Play
