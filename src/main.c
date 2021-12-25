@@ -246,4 +246,4 @@ int Game()
 
 		PlayerPosition.x += PlayerMovement.x;
 
-		if ((
+		if ((Area.ceiling[RoundDown
