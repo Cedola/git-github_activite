@@ -244,4 +244,6 @@ int Game()
 
 		PreviousPlayerPosition = PlayerPosition;
 
-		PlayerPosition.x += Play
+		PlayerPosition.x += PlayerMovement.x;
+
+		if ((
