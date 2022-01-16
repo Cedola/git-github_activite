@@ -252,4 +252,6 @@ int Game()
 			PlayerPosition.x = PreviousPlayerPosition.x;
 		}
 
-		PlayerPosition.y += P
+		PlayerPosition.y += PlayerMovement.y;
+
+		if 
