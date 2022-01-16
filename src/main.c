@@ -251,3 +251,5 @@ int Game()
 		{
 			PlayerPosition.x = PreviousPlayerPosition.x;
 		}
+
+		PlayerPosition.y += P
