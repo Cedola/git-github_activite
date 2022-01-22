@@ -254,4 +254,4 @@ int Game()
 
 		PlayerPosition.y += PlayerMovement.y;
 
-		if ((Area.ceiling[RoundDown(Pl
+		if ((Area.ceiling[RoundDown(PlayerPosition.y, 40) / 40][Roun
