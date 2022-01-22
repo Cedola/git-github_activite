@@ -254,4 +254,4 @@ int Game()
 
 		PlayerPosition.y += PlayerMovement.y;
 
-		if 
+		if ((Area.ceiling[RoundDown(Pl
