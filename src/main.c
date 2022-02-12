@@ -257,4 +257,7 @@ int Game()
 		if ((Area.ceiling[RoundDown(PlayerPosition.y, 40) / 40][RoundDown(PlayerPosition.x - 100, 40) / 40] > 0) ||
 			(Area.ceiling[RoundDown(PlayerPosition.y, 40) / 40][RoundUp(PlayerPosition.x - 100, 40) / 40] > 0))
 		{
-			PlayerPosition.y = Prev
+			PlayerPosition.y = PreviousPlayerPosition.y;
+		}
+
+	
