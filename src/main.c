@@ -260,4 +260,4 @@ int Game()
 			PlayerPosition.y = PreviousPlayerPosition.y;
 		}
 
-		if ((PlayerPosition.x != PreviousPlayerPosi
+		if ((PlayerPosition.x != PreviousPlayerPosition.x) || (PlayerPositi
