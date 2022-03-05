@@ -264,4 +264,4 @@ int Game()
 			moving = true;
 
 
-		
+		//TraceLog(5, TextForma
