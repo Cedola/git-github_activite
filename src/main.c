@@ -267,4 +267,4 @@ int Game()
 		//TraceLog(5, TextFormat("%d %d", (int)PlayerMovement.x, (int)PlayerMovement.y));
 
 
-		if (PlayerMovement.y == 4) { CharacterSprite.Cu
+		if (PlayerMovement.y == 4) { CharacterSprite.CurrentSprite.y = 0
