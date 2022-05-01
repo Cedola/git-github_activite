@@ -268,4 +268,4 @@ int Game()
 
 
 		if (PlayerMovement.y == 4) { CharacterSprite.CurrentSprite.y = 0; }
-		else if (PlayerMovement.y == -4) { Character
+		else if (PlayerMovement.y == -4) { CharacterSprite.CurrentSprite.y 
