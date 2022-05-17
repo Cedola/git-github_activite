@@ -274,4 +274,4 @@ int Game()
 		
 
 
-		if ((Ti
+		if ((Tick - AttackStartTick >= 8 &&
