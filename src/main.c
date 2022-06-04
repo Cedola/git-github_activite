@@ -274,4 +274,4 @@ int Game()
 		
 
 
-		if ((Tick - AttackStartTick >= 8 && AttackAnimation == true) && (moving 
+		if ((Tick - AttackStartTick >= 8 && AttackAnimation == true) && (moving == true && (CharacterSprite.Curre
