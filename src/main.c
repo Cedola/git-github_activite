@@ -274,4 +274,4 @@ int Game()
 		
 
 
-		if ((Tick - AttackStartTick >= 8 && AttackAnimation == true) && (moving == true && (CharacterSprite.CurrentSprite.y == 1 || CharacterS
+		if ((Tick - AttackStartTick >= 8 && AttackAnimation == true) && (moving == true && (CharacterSprite.CurrentSprite.y == 1 || CharacterSprite.CurrentSprite.y == 2))
