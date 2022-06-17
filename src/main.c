@@ -276,4 +276,6 @@ int Game()
 
 		if ((Tick - AttackStartTick >= 8 && AttackAnimation == true) && (moving == true && (CharacterSprite.CurrentSprite.y == 1 || CharacterSprite.CurrentSprite.y == 2)))
 		{
-			CharacterSprite.CurrentSprite.x = AttackAnimationWal
+			CharacterSprite.CurrentSprite.x = AttackAnimationWalking[1];
+		}
+		else if ((Tick 
