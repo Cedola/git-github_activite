@@ -278,4 +278,4 @@ int Game()
 		{
 			CharacterSprite.CurrentSprite.x = AttackAnimationWalking[1];
 		}
-		else if ((Tick 
+		else if ((Tick - AttackStartTick < 8 && Attack
