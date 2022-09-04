@@ -291,4 +291,5 @@ int Game()
 			CharacterSprite.CurrentSprite.x = AttackAnimationStanding[0];
 		}
 		else
-		
+		{
+			if ((Tick % 15 == 0) &
