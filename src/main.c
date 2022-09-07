@@ -292,4 +292,4 @@ int Game()
 		}
 		else
 		{
-			if ((Tick % 15 == 0) && (moving == true) && (Cha
+			if ((Tick % 15 == 0) && (moving == true) && (CharacterSprite.CurrentSprite
