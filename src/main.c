@@ -292,4 +292,8 @@ int Game()
 		}
 		else
 		{
-			if ((Tick % 15 == 0) && (moving == true) && (CharacterSprite.CurrentSprite.y == 0 || CharacterSprite.Cur
+			if ((Tick % 15 == 0) && (moving == true) && (CharacterSprite.CurrentSprite.y == 0 || CharacterSprite.CurrentSprite.y == 3))
+			{
+
+
+	
