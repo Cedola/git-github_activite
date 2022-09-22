@@ -296,4 +296,5 @@ int Game()
 			{
 
 
-				CurrentPlayerAnimationF
+				CurrentPlayerAnimationFrame = 0;
+				if (CharacterS
