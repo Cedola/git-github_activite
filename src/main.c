@@ -297,4 +297,4 @@ int Game()
 
 
 				CurrentPlayerAnimationFrame = 0;
-				if (CharacterS
+				if (CharacterSprite.CurrentSprite.x == 0)
