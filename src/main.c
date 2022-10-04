@@ -298,3 +298,4 @@ int Game()
 
 				CurrentPlayerAnimationFrame = 0;
 				if (CharacterSprite.CurrentSprite.x == 0)
+					CharacterSprite.Cu
