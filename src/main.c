@@ -300,3 +300,4 @@ int Game()
 				if (CharacterSprite.CurrentSprite.x == 0)
 					CharacterSprite.CurrentSprite.x = 1;
 				else
+					CharacterSprite.C
