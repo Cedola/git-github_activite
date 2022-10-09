@@ -301,4 +301,5 @@ int Game()
 					CharacterSprite.CurrentSprite.x = 1;
 				else
 					CharacterSprite.CurrentSprite.x = 0;
-			
+			}
+			else if ((Tic
