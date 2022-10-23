@@ -302,4 +302,6 @@ int Game()
 				else
 					CharacterSprite.CurrentSprite.x = 0;
 			}
-			else if ((Tick % 10 == 0) && (moving == true) && (CharacterSprite.CurrentSprite.y == 1 || CharacterSprite.CurrentS
+			else if ((Tick % 10 == 0) && (moving == true) && (CharacterSprite.CurrentSprite.y == 1 || CharacterSprite.CurrentSprite.y == 2))
+			{
+				
