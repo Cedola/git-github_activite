@@ -304,4 +304,5 @@ int Game()
 			}
 			else if ((Tick % 10 == 0) && (moving == true) && (CharacterSprite.CurrentSprite.y == 1 || CharacterSprite.CurrentSprite.y == 2))
 			{
-				CharacterSprite.CurrentSprite.x = PlayerAnimation[CurrentPlayerA
+				CharacterSprite.CurrentSprite.x = PlayerAnimation[CurrentPlayerAnimationFrame];
+				CurrentPla
