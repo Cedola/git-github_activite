@@ -307,4 +307,5 @@ int Game()
 				CharacterSprite.CurrentSprite.x = PlayerAnimation[CurrentPlayerAnimationFrame];
 				CurrentPlayerAnimationFrame++;
 				if (CurrentPlayerAnimationFrame == 4)
-					CurrentPl
+					CurrentPlayerAnimationFrame = 0;
+			}
