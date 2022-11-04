@@ -309,4 +309,6 @@ int Game()
 				if (CurrentPlayerAnimationFrame == 4)
 					CurrentPlayerAnimationFrame = 0;
 			}
-			else if (moving =
+			else if (moving == false) 
+			{ 
+				Charact
