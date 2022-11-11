@@ -311,4 +311,4 @@ int Game()
 			}
 			else if (moving == false) 
 			{ 
-				Charact
+				CharacterSprite.CurrentSpri
