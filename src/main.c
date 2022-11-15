@@ -311,4 +311,6 @@ int Game()
 			}
 			else if (moving == false) 
 			{ 
-				CharacterSprite.CurrentSpri
+				CharacterSprite.CurrentSprite.x = 2; 
+			}
+		}
