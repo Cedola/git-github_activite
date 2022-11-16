@@ -314,3 +314,5 @@ int Game()
 				CharacterSprite.CurrentSprite.x = 2; 
 			}
 		}
+
+		ItemHeld.ItemSprite
