@@ -315,4 +315,4 @@ int Game()
 			}
 		}
 
-		ItemHeld.ItemSprite.CurrentSprite.y = Cha
+		ItemHeld.ItemSprite.CurrentSprite.y = CharacterSprite.CurrentSprite.
