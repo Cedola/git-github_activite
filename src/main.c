@@ -316,4 +316,4 @@ int Game()
 		}
 
 		ItemHeld.ItemSprite.CurrentSprite.y = CharacterSprite.CurrentSprite.y;
-		ItemHeld.ItemSprite.CurrentSpri
+		ItemHeld.ItemSprite.CurrentSprite.x = CharacterSprite.CurrentSp
