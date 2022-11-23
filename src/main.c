@@ -319,4 +319,4 @@ int Game()
 		ItemHeld.ItemSprite.CurrentSprite.x = CharacterSprite.CurrentSprite.x;
 
 
-		if ((PlayerAtt
+		if ((PlayerAttack == 1 && ItemHeld.Weapo
