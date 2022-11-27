@@ -319,4 +319,4 @@ int Game()
 		ItemHeld.ItemSprite.CurrentSprite.x = CharacterSprite.CurrentSprite.x;
 
 
-		if ((PlayerAttack == 1 && ItemHeld.WeaponType == MeleeOneHand) && 
+		if ((PlayerAttack == 1 && ItemHeld.WeaponType == MeleeOneHand) && Tick - AttackStartTick > 20)
