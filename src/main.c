@@ -321,4 +321,5 @@ int Game()
 
 		if ((PlayerAttack == 1 && ItemHeld.WeaponType == MeleeOneHand) && Tick - AttackStartTick > 20)
 		{
-			PlayerAttacking = tr
+			PlayerAttacking = true;
+			AttackAnimation = true;
