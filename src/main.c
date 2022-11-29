@@ -323,3 +323,4 @@ int Game()
 		{
 			PlayerAttacking = true;
 			AttackAnimation = true;
+			AttackStartTick = Tick;
