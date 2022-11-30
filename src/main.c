@@ -326,4 +326,4 @@ int Game()
 			AttackStartTick = Tick;
 		}
 
-		if (Tick - Att
+		if (Tick - AttackStartTick >= 15 && Atta
