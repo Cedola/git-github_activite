@@ -326,4 +326,4 @@ int Game()
 			AttackStartTick = Tick;
 		}
 
-		if (Tick - AttackStartTick >= 15 && Atta
+		if (Tick - AttackStartTick >= 15 && AttackAnimation == tr
