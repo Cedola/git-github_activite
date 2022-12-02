@@ -326,4 +326,5 @@ int Game()
 			AttackStartTick = Tick;
 		}
 
-		if (Tick - AttackStartTick >= 15 && AttackAnimation == tr
+		if (Tick - AttackStartTick >= 15 && AttackAnimation == true)
+			AttackAnimation = false;
