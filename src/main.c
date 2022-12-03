@@ -328,3 +328,11 @@ int Game()
 
 		if (Tick - AttackStartTick >= 15 && AttackAnimation == true)
 			AttackAnimation = false;
+
+		
+			
+
+
+
+
+		if ((Area.ceilin
