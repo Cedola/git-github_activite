@@ -335,4 +335,4 @@ int Game()
 
 
 
-		if ((Area.ceilin
+		if ((Area.ceiling[RoundDown(PlayerPosition.y, 40
