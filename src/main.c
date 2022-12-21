@@ -339,3 +339,7 @@ int Game()
 			(Area.ceiling[RoundDown(PlayerPosition.y, 40) / 40][RoundUp(PlayerPosition.x - 100, 40)/ 40] > 0))
 		{
 			PlayerPosition = PreviousPlayerPosition;
+		}
+
+
+		if (Dummy.EnemyHea
