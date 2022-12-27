@@ -342,4 +342,7 @@ int Game()
 		}
 
 
-		if (Dummy.EnemyHea
+		if (Dummy.EnemyHealth > 0)
+		{
+
+			UpdateEn
