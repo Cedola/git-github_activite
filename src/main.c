@@ -347,4 +347,6 @@ int Game()
 
 			UpdateEnemy(&Dummy, Tick, &Area, PlayerPosition, &PlayerHealth, PlayerAttacking, CharacterSprite.CurrentSprite.y);
 
-		
+		}
+		else
+			Dummy.Is
