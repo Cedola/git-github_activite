@@ -345,4 +345,6 @@ int Game()
 		if (Dummy.EnemyHealth > 0)
 		{
 
-			UpdateEnemy(&Dummy, Tick, &Area, PlayerPosition, &PlayerHealth, PlayerAttacking, Charact
+			UpdateEnemy(&Dummy, Tick, &Area, PlayerPosition, &PlayerHealth, PlayerAttacking, CharacterSprite.CurrentSprite.y);
+
+		
