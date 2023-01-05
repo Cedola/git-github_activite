@@ -349,4 +349,7 @@ int Game()
 
 		}
 		else
-			Dummy.Is
+			Dummy.IsDead = true;
+
+
+	
