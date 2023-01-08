@@ -353,4 +353,4 @@ int Game()
 
 
 		Enemies[0] = Dummy;
-		TraceLog(5, TextF
+		TraceLog(5, TextFormat("%d, %d\n", (int
