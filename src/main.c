@@ -352,4 +352,5 @@ int Game()
 			Dummy.IsDead = true;
 
 
-	
+		Enemies[0] = Dummy;
+		TraceLog(5, TextF
