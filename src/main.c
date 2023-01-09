@@ -353,4 +353,4 @@ int Game()
 
 
 		Enemies[0] = Dummy;
-		TraceLog(5, TextFormat("%d, %d\n", (int)(CharacterSprite.Cu
+		TraceLog(5, TextFormat("%d, %d\n", (int)(CharacterSprite.CurrentSprite.x), (int)(CharacterSp
