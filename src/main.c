@@ -354,4 +354,5 @@ int Game()
 
 		Enemies[0] = Dummy;
 		TraceLog(5, TextFormat("%d, %d\n", (int)(CharacterSprite.CurrentSprite.x), (int)(CharacterSprite.CurrentSprite.y)));
-		DrawGame(Area, DungeonTextures, PlayerPosition, CharacterSprite, Enemies, 1, ItemHeld, PlayerHealth, MaxHealth, PixelFont, At
+		DrawGame(Area, DungeonTextures, PlayerPosition, CharacterSprite, Enemies, 1, ItemHeld, PlayerHealth, MaxHealth, PixelFont, AttackAnimation);
+		//Dr
