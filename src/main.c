@@ -357,4 +357,9 @@ int Game()
 		DrawGame(Area, DungeonTextures, PlayerPosition, CharacterSprite, Enemies, 1, ItemHeld, PlayerHealth, MaxHealth, PixelFont, AttackAnimation);
 		//DrawTexturePro(CharacterSpriteSheet, (Rectangle){0, 0, 10, 15}, (Rectangle){200, 200, 40, 60}, (Vector2){0, 0}, 0, WHITE);
 
-		//DrawSprite(Dummy.EnemySprite, Dummy.Ene
+		//DrawSprite(Dummy.EnemySprite, Dummy.EnemyPosition);
+
+
+		
+
+		Tick++
