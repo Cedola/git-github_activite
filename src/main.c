@@ -362,4 +362,10 @@ int Game()
 
 		
 
-		Tick++
+		Tick++;
+
+
+		
+
+		
+		EndD
