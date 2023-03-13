@@ -368,4 +368,7 @@ int Game()
 		
 
 		
-		EndD
+		EndDrawing();
+	}
+
+	UnloadTexture
