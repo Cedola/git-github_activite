@@ -371,4 +371,5 @@ int Game()
 		EndDrawing();
 	}
 
+	UnloadTexture(StoneTile);
 	UnloadTexture
