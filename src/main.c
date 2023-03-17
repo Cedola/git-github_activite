@@ -372,4 +372,5 @@ int Game()
 	}
 
 	UnloadTexture(StoneTile);
-	UnloadTexture
+	UnloadTexture(StoneWall);
+	Un
