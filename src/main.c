@@ -373,4 +373,5 @@ int Game()
 
 	UnloadTexture(StoneTile);
 	UnloadTexture(StoneWall);
-	UnloadTexture(CharacterSpriteShe
+	UnloadTexture(CharacterSpriteSheet);
+	UnloadTexture
