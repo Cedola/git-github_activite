@@ -378,3 +378,8 @@ int Game()
 }
 
 
+int main()
+{
+	
+
+	InitWind
