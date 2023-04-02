@@ -386,3 +386,8 @@ int main()
 	SetTargetFPS(60);
 
 	Game();
+
+	CloseWindow();
+
+	return 0;
+}
