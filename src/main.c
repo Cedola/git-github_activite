@@ -382,4 +382,7 @@ int main()
 {
 	
 
-	InitWindow(WIDTH * 4, HEIGHT * 4, "Shattered
+	InitWindow(WIDTH * 4, HEIGHT * 4, "Shattered");
+	SetTargetFPS(60);
+
+	Game();
